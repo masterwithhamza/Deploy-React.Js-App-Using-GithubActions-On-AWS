@@ -1,4 +1,4 @@
-name: CI/CD counter app By hamza
+name: CI/CD counter app By hamza rehman
 
 on:
   push:
